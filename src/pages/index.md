@@ -4,9 +4,8 @@ sections:
   - type: section_hero
     section_id: hero
     title: Dugo Selo
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
+    content: |
+      Najljepši stanovi u Dugom Selu
     image: /images/feature1.png
     image_alt: App preview
     actions:
