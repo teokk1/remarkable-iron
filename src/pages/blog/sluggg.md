@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Moj Novi
 subtitle: lorem-ipsum
 date: '2021-03-13'
 excerpt: lorem-ipsum
