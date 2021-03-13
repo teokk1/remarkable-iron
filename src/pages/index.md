@@ -102,7 +102,7 @@ sections:
           Interdum et malesuada fames ac ante ipsum primis in faucibus.
   - type: section_cta
     section_id: call-to-action
-    title: This Is Call To Action Block!
+    title: Get in touch
     subtitle: This is an optional description for the call to action block.
     actions:
       - type: action
