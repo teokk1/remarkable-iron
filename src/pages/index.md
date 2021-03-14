@@ -6,7 +6,7 @@ sections:
     title: Hello
     content: |
       Najljepši stanovi u Dugom Selu
-    image: /images/feature1.png
+    image: /images/1.jpg
     image_alt: App preview
     actions:
       - type: action
