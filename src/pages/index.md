@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: section_hero
     section_id: hero
-    title: Dugo Selo
+    title: Hello
     content: |
       Najljepši stanovi u Dugom Selu
     image: /images/feature1.png
